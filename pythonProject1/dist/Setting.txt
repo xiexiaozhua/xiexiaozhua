@@ -1,0 +1,11 @@
+lujin=C:\\Program Files (x86)\\Netease\\PC4399_MCLauncher\\PC4399_WPFLauncher.exe
+zhanghao=JmSkMiH_p0pysfoy
+mima=eg3x86x2
+x1=1039
+y1=466
+x2=949
+y2=683
+x3=1105
+y3=720
+x4=1037
+y4=616
