@@ -1,0 +1,8 @@
+{
+    "token": "1/Mjg0Njg=/VWSfB59jnHN+Py8DmQqjvg==",
+    "verify_token": "webhook verify token",
+    "encrypt_token": "webhook encrypt token",
+    "webhook_port": 50000,
+    "using_ws": true,
+    "key":"wangmamdabi"
+}
